@@ -1,3 +1,5 @@
+# testodbboost
+
 This example shows how to persist objects that use Boost smart pointers,
 containers, and value types with the help of the Boost profile library
 (libodb-boost).
@@ -75,4 +77,4 @@ Once the database schema is ready, we can run the example (using MySQL as
 the database):
 
 ./driver --user odb_test --database odb_test
-# testodbboost
+
